@@ -30,4 +30,4 @@
 	<li>one can run Scraping with WebScraper.py file in python by run this cammand in terminal "python3 WebScraper.py"</li>
 </ul>
 ----------------------------------------------------------------------------------------
-<h1>HAPPY CODING</h1>
+<h1>KEEP LEARNING :)</h1>
