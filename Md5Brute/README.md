@@ -18,6 +18,6 @@ Download code or clone the repo:
 
  Then start MD5Brute:
 
-    python3 Md5brute.py
+    python3 Md5Brute.py
 
 ... and follow the output.
