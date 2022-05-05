@@ -16,8 +16,8 @@ Download code or clone the repo:
     git clone https://github.com/AshishVishwakarma04/Python_projects/tree/main/Md5Brute
  
 
- Then start MD5Bruter:
+ Then start MD5Brute:
 
-    python3 md5bruter.py
+    python3 Md5brute.py
 
 ... and follow the output.
