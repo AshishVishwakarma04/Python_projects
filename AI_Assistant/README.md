@@ -1,8 +1,7 @@
-# Python-Virtual-assistant
-### VAVO
+# Python-AI-Assistant
+### AAVO
 
-Stand for 'Virtual Assistant Version One' A python based programme that uses speech recognition and text-to-speech functions.</br>
-Google text-to-speech API were used. (Only work when the system is online)
+Stand for 'AI Assistant Version One' A python based programme that automate tasks for user.</br>
 
 
 # Getting started
@@ -12,12 +11,13 @@ Prerequisites:
 ### Dependencies
 * Below is the list of libraries that has been used. You must need to install all, before executing the programme
 ```
-pip install speechrecognition
-pip install gTTS
-pip install pyaudio
-pip install playsound
-
-pip install PyAudio
+import pyttsx3 
+import speech_recognition 
+import datetime
+import wikipedia 
+import webbrowser
+import os
+import smtplib
 ```
 
 # Features
@@ -25,18 +25,13 @@ pip install PyAudio
 ### Voice Commands
 
 Since it can take various types of voice inputs for interaction and gives a random voice output which makes it more interactive. 
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-You can also add other commands, here an example that exists
+
+# KEEP LEARNING !
 
 
-### greeting
  
-  "hey","hi","hello","wake up","hai"      Any mentioned keyword and it will give or speak a random output from a specified list
- 
 
-# License
 
-Copyright © Abhijeet kumar. All rights reserved.
-
-Licensed under the [MIT License.](LICENSE)
 
